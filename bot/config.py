@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1442608901:AAFIjUDKQtAC59107-CCc3m2hTmEaIWIULY"
+    APP_ID = "2716188"
+    API_HASH = "b3603ed8838e489030218d8f297949f2"
+    DATABASE_URL = "postgres://lcqejquvsunrqh:3c2073ec39c179781b317d1075a8c15878ba4b9a5c56e8180ff04e4544ea78ef@ec2-52-44-55-63.compute-1.amazonaws.com:5432/d10b4u2b5tsuri"
+    SUDO_USERS = "1238722541" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/abmoviesgdUploader"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
